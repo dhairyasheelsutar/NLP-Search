@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.text-center{
+  text-align: center
+}
+
+.mx-auto{
+  margin: 0 auto;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.justify-content-between{
+  justify-content: space-between;
+}
